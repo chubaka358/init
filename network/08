@@ -1,0 +1,22 @@
+1. At first we need to use 'nslookup slash16.org'
+#nslookup slash16.org
+
+#Server:		192.168.50.2
+#Address:	192.168.50.2#53
+#
+#Non-authoritative answer:
+#Name:	slash16.org
+#Address: 54.192.230.59
+#Name:	slash16.org
+#Address: 54.192.230.31
+#Name:	slash16.org
+#Address: 54.192.230.145
+#Name:	slash16.org
+#Address: 54.192.230.162
+
+2. We can use 'whois 54.192.230.59'
+
+#Amazon Technologies Inc. AMAZON-2011L (NET-54-192-0-0-1) 54.192.0.0 - 54.207.255.255
+#Amazon.com, Inc. AMAZO-CF2 (NET-54-192-0-0-2) 54.192.0.0 - 54.192.255.255
+
+PROFIT
