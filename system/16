@@ -1,0 +1,2 @@
+cron - daemon to execute dcheduled commands
+crontab - is the program used to install, deinstall or list the tables used to drive the cron daemon
