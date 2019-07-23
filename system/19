@@ -1,1 +1,1 @@
-service --status-all
+systemctl -t service --state=active
