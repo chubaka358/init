@@ -1,0 +1,8 @@
+#!/bin/bash
+
+my_file="../system/21"
+
+echo "What user needs to be removed?"
+read user_name
+userdel -f $user_name
+echo "Done."
